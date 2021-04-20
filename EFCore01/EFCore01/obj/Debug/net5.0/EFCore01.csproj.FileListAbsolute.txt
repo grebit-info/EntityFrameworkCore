@@ -27,3 +27,4 @@ D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCore01\obj\D
 D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCore01\obj\Debug\net5.0\ref\EFCore01.dll
 D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCore01\obj\Debug\net5.0\EFCore01.pdb
 D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCore01\obj\Debug\net5.0\EFCore01.genruntimeconfig.cache
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCore01\obj\Debug\net5.0\EFCore01.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\bin\Debug\net5.0\EFCORE.CodeFirst.deps.json
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\bin\Debug\net5.0\EFCORE.CodeFirst.dll
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\bin\Debug\net5.0\ref\EFCORE.CodeFirst.dll
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\bin\Debug\net5.0\EFCORE.CodeFirst.pdb
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\obj\Debug\net5.0\EFCORE.CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\obj\Debug\net5.0\EFCORE.CodeFirst.AssemblyInfoInputs.cache
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\obj\Debug\net5.0\EFCORE.CodeFirst.AssemblyInfo.cs
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\obj\Debug\net5.0\EFCORE.CodeFirst.csproj.CoreCompileInputs.cache
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\obj\Debug\net5.0\EFCORE.CodeFirst.dll
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\obj\Debug\net5.0\ref\EFCORE.CodeFirst.dll
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\obj\Debug\net5.0\EFCORE.CodeFirst.pdb
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\bin\Debug\net5.0\EFCORE.CodeFirst.runtimeconfig.json
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\bin\Debug\net5.0\EFCORE.CodeFirst.runtimeconfig.dev.json
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\obj\Debug\net5.0\EFCORE.CodeFirst.genruntimeconfig.cache
+D:\Projects\Git-Learning\grebit-info\EntityFrameworkCore\EFCore01\EFCORE.CodeFirst\obj\Debug\net5.0\EFCORE.CodeFirst.csprojAssemblyReference.cache

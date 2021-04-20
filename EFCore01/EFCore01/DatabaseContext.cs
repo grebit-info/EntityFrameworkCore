@@ -23,7 +23,7 @@ namespace EFCore01
             {
 
                 optionsBuilder.UseSqlServer(@"data source=LAPTOP-D97CKR99; initial catalog=EFCore01;integrated security=True;");
-                base.OnConfiguring(optionsBuilder);
+                //base.Add(optionsBuilder);
             }
             
         }

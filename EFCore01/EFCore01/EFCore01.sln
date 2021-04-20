@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore01", "EFCore01.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFcoreReverseEngineering", "..\EFcoreReverseEngineering\EFcoreReverseEngineering.csproj", "{DD53653A-C1AC-4F36-B448-47ECF66D9C80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCorePowerTool", "..\EFCorePowerTool\EFCorePowerTool.csproj", "{F961C0EE-F999-41B5-862F-C94883ECF7E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCorePowerTool", "..\EFCorePowerTool\EFCorePowerTool.csproj", "{F961C0EE-F999-41B5-862F-C94883ECF7E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCORE.CodeFirst", "..\EFCORE.CodeFirst\EFCORE.CodeFirst.csproj", "{CDBB9752-28AC-44EB-A3E4-A4EDB9B59D09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{F961C0EE-F999-41B5-862F-C94883ECF7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F961C0EE-F999-41B5-862F-C94883ECF7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F961C0EE-F999-41B5-862F-C94883ECF7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDBB9752-28AC-44EB-A3E4-A4EDB9B59D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBB9752-28AC-44EB-A3E4-A4EDB9B59D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBB9752-28AC-44EB-A3E4-A4EDB9B59D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBB9752-28AC-44EB-A3E4-A4EDB9B59D09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
